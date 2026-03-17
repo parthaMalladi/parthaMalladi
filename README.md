@@ -1,4 +1,4 @@
-# Hey, my name is Partha Malladi 👋
+# Hey, my name is Partha Malladi
 
 💻 AI & ML Enthusiast | Full-Stack Development | Cybersecurity | Game Development
 
@@ -16,4 +16,4 @@
 - Other: Unity 3D, Azure, AWS, Machine Learning, Sockets, OpenSSL
 
 ### Resume
-📄 You can view my resume [here](https://github.com). 
+📄 You can view my resume [here](https://github.com/parthaMalladi/parthaMalladi/blob/main/Resume_ParthaMalladi.pdf). 
