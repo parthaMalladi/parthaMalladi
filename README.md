@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, my name is Partha Malladi 👋
 
-<!--
-**parthaMalladi/parthaMalladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AI & ML Enthusiast | Full-Stack Development | Cybersecurity | Game Development
 
-Here are some ideas to get you started:
+### Featured Projects
+- [AI Medical Diagnostic Website](https://github.com/parthaMalladi/Health-Finder) – Flask + ML + PostgreSQL
+- [Browser Based Game Website](https://github.com/parthaMalladi/Unity-Arcade) - Unity + Node.js + PostgreSQL
+- [App To Split Bills](https://github.com/parthaMalladi/BillSplit) - Tesseract OCR + Python
+- [Tic-Tac-Toe Over Sockets](https://github.com/parthaMalladi/Tic-Tac-Toe-Over-Sockets) - Sockets + C++
+- [Socket Web Crawler](https://github.com/parthaMalladi/WebCrawl) - Sockets + Java
+- [Dyslexia & Learning Aid App](https://github.com/parthaMalladi/Dyslia-App) - Python + tKinter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Programming Languages: Python, Java, JavaScript, C++, C#, Kotlin
+- Databases: MySQL, PostgreSQL, DynamoDB
+- Other: Unity 3D, Azure, AWS, Machine Learning, Sockets, OpenSSL
+
+### Resume
+📄 You can view my resume [here](https://github.com). 
